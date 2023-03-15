@@ -18,3 +18,7 @@ el comando que se utiliza para modificar al stating area es "git add"
 6. ¿Qué comando utilizo para agregar archivos preparados al
 repositorio?
 El comando que se utiliza para agregar archivos preparados al repositorio es git commit -m "---"
+
+7. ¿Cuál es el nombre por defecto de la rama principal de mi proyecto?
+El nombre es "master"
+
