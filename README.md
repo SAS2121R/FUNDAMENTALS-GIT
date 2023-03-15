@@ -1,6 +1,6 @@
 Hola, este es mi 1° Hello world de Gi
 1. ¿Que es Git?
-iHerramienta que nos permite crear diferentes versiones de un mismo proyecto
+Es una herramienta que nos permite crear diferentes versiones de un mismo proyecto
 
 2. ¿Que es GitHub?
 Plataforma para alojar proyectos especificamente se pueden almacenar en la nube
@@ -10,3 +10,7 @@ Plataforma para alojar proyectos especificamente se pueden almacenar en la nube
  
 4. ¿Que es un commit?
 Toma una instantánea de los cambios preparados que se hizo en el proyecto
+
+5. ¿Que comando utilizo para agregar archivos modificados al
+staging area?
+el comando que se utiliza para modificar al stating area es "git add"
