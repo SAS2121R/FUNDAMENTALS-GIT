@@ -14,3 +14,7 @@ Toma una instantánea de los cambios preparados que se hizo en el proyecto
 5. ¿Que comando utilizo para agregar archivos modificados al
 staging area?
 el comando que se utiliza para modificar al stating area es "git add"
+
+6. ¿Qué comando utilizo para agregar archivos preparados al
+repositorio?
+El comando que se utiliza para agregar archivos preparados al repositorio es git commit -m "---"
