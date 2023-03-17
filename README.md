@@ -1,4 +1,4 @@
-Hola, estoy es mi p rimer  mundo en GIT
+Hola, estoy es mi primer  mundo en GIT
 1. ¿Que es Git?
 Es una herramienta que nos permite crear diferentes versiones de un mismo proyecto
 
